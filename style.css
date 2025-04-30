@@ -1,7 +1,7 @@
 :root {
-  --primary-color: #ff5945;
-  --secondary-color: #153666;
-  --accent-color: #4e085f;
+  --primary-color: #212121;
+  --secondary-color: #323232;
+  --accent-color: #ff5945;
   --background-gradient: linear-gradient(
     135deg,
     var(--secondary-color),
